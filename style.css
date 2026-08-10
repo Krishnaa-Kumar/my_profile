@@ -42,7 +42,6 @@ a {
 
 img {
     max-width: 100%;
-   margin: 50%;
 }
 
 ::selection {
@@ -96,6 +95,7 @@ img {
     object-fit: cover;
     object-position: center top;
     border-radius: 10px;
+   margin: 50%;
 }
 
 .nav-links {
